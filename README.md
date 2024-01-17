@@ -1,4 +1,4 @@
-# FLW2 U2L7: Code Along
+# FLW2 U2L8: Import/Export Code Along
 
 ## iCount
 
